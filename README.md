@@ -1,2 +1,2 @@
 # Linux-device-driver-Development
-使用I.MX6ULL或者iTop4412编写
+基于I.MX6ULL或者iTop4412开发板编写
